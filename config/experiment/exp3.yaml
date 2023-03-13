@@ -1,0 +1,14 @@
+seed: 0
+classes: [4, 9]
+batch_size: 64
+lr: 0.0005
+epochs: 200
+bx: 1
+bw: 1
+bz: 1
+bh: 1
+by: 1
+m0: 0
+s0: 1
+m1: 0
+s1: 1

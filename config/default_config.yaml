@@ -1,0 +1,9 @@
+defaults:
+  - experiment: exp1
+  - _self_
+
+hydra:
+  job:
+    chdir: true
+  job_logging:
+    disable_existing_loggers: true
